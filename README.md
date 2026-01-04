@@ -3,7 +3,7 @@
     src="assets/johngilliland.jpeg"
     style="width: 120px; margin: auto;" />
 
-## elusive
+## Arun Bansal
 Hello, I am Arun Bansal. A software developer [[resume](https://arnbansal.github.io/arun-resume/)] living in Chandigarh, India.
 
 I have recently worked mostly in the Microsoft stack (WPF, UWP, Xaml, C#). I now work with typescript, javascript. I have a variety of code projects here, though most are only partially complete due to the demands of being a full time engineer. And many have to remain private.
@@ -91,11 +91,7 @@ I have recently worked mostly in the Microsoft stack (WPF, UWP, Xaml, C#). I now
 
 ## Links
 
-[<img alt="linkedin" src="assets/linkedin_icon.svg" height="64" width="64" />](https://linkedin.com/in/johncgilliland)
-[<img alt="twitter" src="assets/twitter_icon.svg" height="64" width="64" />](https://twitter.com/johncgilliland)
-[<img alt="instagram" src="assets/instagram_icon.svg" height="64" width="64" />](https://instagram.com/johncgilliland)
-[<img alt="dev.to" src="assets/dev_icon.svg" height="64" width="64" />](https://dev.to/elusive)
+[<img alt="linkedin" src="assets/linkedin_icon.svg" height="64" width="64" />](https://www.linkedin.com/in/arunbansal40)
 
-## Articles
-Well, seeing as the last artical I wrote was in 2019...  But they are still here: [Writing](https://johng.info/blog)
+
 
